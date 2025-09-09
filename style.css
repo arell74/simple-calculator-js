@@ -81,3 +81,7 @@ button {
 .operator {
     color: darksalmon;
 }
+
+.job {
+    display: none;
+}
